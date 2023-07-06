@@ -7,4 +7,10 @@ public class Class1
     {
         Console.WriteLine("Hello, World!");
     }
+
+    // Sum method
+    public static int Sum(int a, int b)
+    {
+        return a + b;
+    }
 }
