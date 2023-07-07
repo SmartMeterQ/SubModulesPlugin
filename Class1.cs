@@ -13,4 +13,10 @@ public class Class1
     {
         return a + b;
     }
+
+    // Sum method2
+    public static int Sum2(int a, int b, int c)
+    {
+        return a + b +c ;
+    }
 }
